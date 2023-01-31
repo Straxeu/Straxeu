@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Straxeu&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Straxeu&show_icons=true&theme=radical)
 ![Icons](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
+![Icons](https://img.shields.io/badge/-CSS-e34f26?logo=html5&logoColor=fff)
+![Icons](https://img.shields.io/badge/-LUA-e34f26?logo=html5&logoColor=fff)
