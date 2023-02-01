@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 ![Icons](https://img.shields.io/badge/-CSS-e34f26?logo=html5&logoColor=fff)
 ![Icons](https://img.shields.io/badge/-LUA-e34f26?logo=html5&logoColor=fff)
 ![Icons](https://img.shields.io/badge/-JAVA-e34f26?logo=html5&logoColor=fff)
+![Icons](https://img.shields.io/badge/-SPOTIFY IS MY LIFE-e34f26?logo=html5&logoColor=fff)
